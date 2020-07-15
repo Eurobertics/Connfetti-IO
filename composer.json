@@ -1,0 +1,20 @@
+{
+  "name": "eurobertics/connfetti-io",
+  "description": "A simple IO file wrapper for different type of files.",
+  "type": "library",
+  "require": {
+    "php": "^7.3"
+  },
+  "autoload": {
+    "psr-4" : {
+      "Connfetti\\IO\\" : "src/"
+    }
+  },
+  "license":      "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name":  "Bernd Robertz",
+      "email": "brobertz.net@gmail.com"
+    }
+  ]
+}
