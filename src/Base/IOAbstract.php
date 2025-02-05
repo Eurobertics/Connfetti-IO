@@ -3,7 +3,7 @@ namespace Connfetti\IO\Base;
 
 abstract class IOAbstract
 {
-    public static $VERSION = '0.1.2';
+    public static $VERSION = '0.2';
 
     protected $filename;
     protected $filecontent = array();
